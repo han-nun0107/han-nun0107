@@ -21,7 +21,3 @@ React · Next.js 기반의 웹 애플리케이션과 UI/UX 개선에 집중하�
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=han-nun0107&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=han-nun0107&layout=compact&theme=radical)
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=han-nun0107&color=blue)
